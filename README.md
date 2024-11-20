@@ -11,7 +11,7 @@ python -m venv env
 pip install -r requirements.txt
 
 2. Setup environmental variables in the .env file
-
+clear
 3. to run the program, in terminal go to root folder of your code and execute
 
 python .\main.py
